@@ -34,7 +34,16 @@
         "/package.json.meta",
         "/AppleAuth",
         "/AppleAuth.meta",
+        "/AppleAuthSampleProject~/Assets/AppleAuthSample",
+        "/AppleAuthSampleProject~/Assets/AppleAuthSample.meta",
         "/docs",
         "/docs.meta"
+    ],
+    "samples": [
+        {
+            "displayName": "AppleAuth Sample",
+            "description": "Simple SignIn Sample",
+            "path": "AppleAuthSampleProject~/Assets/AppleAuthSample"
+        }
     ]
 }
